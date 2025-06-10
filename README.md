@@ -12,7 +12,7 @@ It is not the main working repo — instead, it functions as a **bridge to the i
 
 AGORA’s full documentation, ongoing updates, and contributions are hosted in the official AGORA GitBook:
 
-🔗 [Explore the AGORA GitBook](https://github.com/Agora-Cardano/agora)
+🔗 [Explore the AGORA Github](https://github.com/Agora-Cardano/agora)
 
 ---
 
